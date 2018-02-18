@@ -8,11 +8,13 @@ Data for adding keywords via the SERPStream API.
  - TLD ID
  - TLD Name
  
+ 
  ### locations.csv 
  Columns labels from left to right:
   - Location ID
   - Location name (short)
   - Location name (long)
+  
   
  ### languages.csv
  Columns labels from left to right:
